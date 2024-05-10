@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="icone2.ico">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" crossorigin="anonymous">
+	<title>II WPEA</title>
+</head>
+<body>
+<!-- seta -->
+<a class="seta" href="#top"><i class="fas fa-arrow-up"></i></a>
+	
+	<navbar id="navbar">
+		<a href="#Apresentação" id="ppt-a">Apresentação</a>
+		<a href="#Convidados" id="ppt-c">Convidados</a>
+		<a href="#Programação">Programação</a>
+		<a href="https://forms.gle/fDrf3mDpZC6gdvbS9" target="_blank">Inscrição</a>
+
+	</navbar>
+	<span id="ppt"></span>
+	<header id="header">
+		<img src="logo2.png" id="logo">
+		<img src="logo3.png" id="logo1">
+		<p id="title">II Workshop - Pesquisa em Educação Ambiental</p>
+	</header>
+	
+	<section class="sec1">
+		<span id="Apresentação"></span>
+		<p class="txt-0 apr">Apresentação</p>
+		<p class="txt-1">Os pesquisadores do Grupo de Pesquisa em Educação em Ciências e Educação Ambiental - GEPECEA, da Universidade Federal de Itajubá, propõem a realização do II Workshop “Pesquisa em Educação Ambiental". O evento ocorrerá entre 04 e 05 de dezembro de 2023, na cidade de Itajubá, e objetiva promover a discussão e a análise de fundamentos teóricos e metodológicos para a condução da pesquisa em EA. Com o propósito de enriquecer o evento, ampliando o diálogo e oferecendo oportunidades para a troca de experiências, o Workshop contará com a participação dos pesquisadores do Projeto de Pesquisa “Estado da Arte da Pesquisa em Educação Ambiental no Brasil: Análise de Teses e Dissertações” (Projeto EArte). Trata-se de um projeto de natureza interinstitucional cujo objetivo é o de caracterizar e compreender a trajetória histórica da Pesquisa em EA no Brasil, analisando teses e dissertações produzidas no período 1981-2023 e que tenham como foco a relação entre o processo educativo e a temática ambiental.</p>
+	</section>
+	<section>
+		<span class="txt-0"></span>
+		<p class="txt-0">Comissão organizadora</p>
+		<p class="txt-2">Profa. Dra. Danielle Aparecida Reis Leite</p>
+		<p class="txt-2">Profa. Dra. Dayane dos Santos Silva</p>
+		<p class="txt-2">Profa. Dra. Janaina Roberta dos Santos</p>
+		<p class="txt-2">Prof. Dr. Luciano Fernandes Silva</p>
+		<p class="txt-2">Profa. Ma. Fabiana Mara de Oliveira</p>
+		<p class="txt-2">Prof. Me. Gabriel Lisboa de Melo</p>		
+	</section>
+	<section>
+		<span class="txt-0" id="Convidados"></span>
+		<p class="txt-0">Convidadas(os)</p>
+		<p class="txt-2">Profa. Dra. Juliana Rink - Unicamp</p>
+		<p class="txt-2">Prof. Dr. Luiz Marcelo de Carvalho - Unesp (Rio Claro)</p>
+		<p class="txt-2">Prof. Dr. Luiz Carlos Santana - Unesp (Rio Claro)</p>
+		<p class="txt-2">Profa. Dra. Rosa Maria Feiteiro Cavalari - Unesp (Rio Claro)</p>
+		<p class="txt-2">Prof. Dr. Wanderson de Morais - Unesp (Rio Claro)</p>
+		<p class="txt-2">Prof. Dr. Danilo Seithi Kato - UFTM</p>
+		<p class="txt-2">Prof. Dr. José Artur Barroso Fernandes - UFF</p>
+		<p class="txt-2">Profa. Ms. Laís de Souza Rédua - UEMG  </p>
+		<p class="txt-2">Doutorando Dieison Prestes da Silveira - UFPR</p>
+		<p class="txt-2">Doutorando Gabriel Lisboa de Melo - Unesp (Rio Claro)</p>
+		<p class="txt-2">Doutoranda Fernanda Sueko Ogawa - Unicamp</p>
+		<p class="txt-2">Ms. Rejane Leal Candido - UFTM</p>
+	</section>
+	<section>
+		<span class="txt-0" id="Programação"></span>
+		<p class="txt-0">Programação</p>
+
+<table id="table">
+	<tr>
+		<td colspan="2" class="txt-center">04/12 - Tarde/Noite (Local a definir)</td>
+	</tr>
+
+	<tr>
+		<td>14h30 às 15h</td>
+		<td>Abertura, objetivos e programação do Workshop</td>
+	</tr>
+
+	<tr>
+		<td>15h às 17h30</td>
+		<td>Oficina: "Estado da Arte da Pesquisa em Educação Ambiental no Brasil: projeto EArte"</td>
+	</tr>
+	<tr>
+		<td>17h30 às 18h</td>
+		<td>Coffee break</td>
+	</tr>
+	<tr>
+		<td>19h às 20h30</td>
+		<td>Roda de conversa “Educação em Ciências e Educação Ambiental”</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="txt-center">05/12 - Manhã (Local a definir)</td>
+	</tr>
+	<tr>
+		<td>08h às 12h</td>
+		<td>Oficina: "Estado da Arte da Pesquisa em Educação Ambiental no Brasil: projeto EArte"</td>
+	</tr>
+	<tr>
+		<td>10h às 10h30</td>
+		<td>Coffee break</td>
+	</tr>
+</table>
+
+		
+	<span class="txt-0"></span>
+	<p class="txt-0">Conheça a UNIFEI</p>
+	<div id="video"><a target="_blank" href="https://youtu.be/CTMnkpVv7Bo?list=PLDPk-D7YqyM5XwlM4lrVLWCV8duLlpiqt"><img src="unifei.jpg"></a></div>
+	<span class="txt-0"></span>	
+</section>
+
+	<footer>
+		<span class="txt-3">Realização:</span>
+		<img id="unifei" src="unifei.png">
+		<span class="span-logo"><p class="txt-2 span-logo-txt">Grupo de Estudo e Pesquisa em Educação em Ciências e Educação Ambinetal</p><img id="unifei" src="logo-gepecea.png"></span>
+		<span class="txt-3">Apoio:</span>
+		<img id="prppg" src="logo-prppg.png">
+		<span class="txt-3">Parceria:</span>
+		<img id="unifei" src="logo-earte.png">
+	</footer>
+
+</body>
+</html>
